@@ -1,5 +1,5 @@
 # LearnTrack – Student & Course Management System
-
+Contributer - Amber
 LearnTrack is a console-based admin application built with **Core Java**. It lets an admin manage
 **Students**, **Courses** and **Enrollments** entirely in memory, and was built to practise Java
 fundamentals: OOP, encapsulation, inheritance, polymorphism, static members, `ArrayList`, and
